@@ -17,6 +17,6 @@ private static final Cache<type> cache = new Cache<>(plugin, (uuid, data)-> {
 }, cooldown);
 ```
 
-`Type`: The object that will be stored.
-`plugin`: The plugins instance.
-`cooldown`: Seconds between saves.
+`type`: The object that will be stored.  
+`plugin`: The plugins instance.  
+`cooldown`: Seconds between saves.  
