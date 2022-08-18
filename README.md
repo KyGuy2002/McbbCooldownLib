@@ -1,4 +1,6 @@
 # McbbCooldownLib
+**NOTE:** This repo has been archived as the code included was moved to the api wrapper plugin.
+
 
 ## Maven Dependancy
 ```
